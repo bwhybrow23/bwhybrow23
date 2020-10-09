@@ -11,7 +11,6 @@
 ---
 <img src="https://github-readme-stats.vercel.app/api?username=bwhybrow23&show_icons=true&theme=react&hide_border=true&hide=contribs,prs&count_private=true">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bwhybrow23&theme=react">
-<!--
 ---
 ## StenBot
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=bwhybrow23&repo=StenBot"> -->
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=bwhybrow23&repo=StenBot">
