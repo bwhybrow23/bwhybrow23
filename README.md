@@ -13,6 +13,3 @@
 
 ---
 ## Some of my Work
-<a href="https://github.com/bwhybrow23/StenBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bwhybrow23&repo=StenBot&theme=react"></a> <a href="https://github.com/bwhybrow23/cs-projects"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bwhybrow23&repo=cs-projects&theme=react"></a>
-<a href="https://github.com/bwhybrow23/Emoji-Switcher"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bwhybrow23&repo=Emoji-Switcher&theme=react"></a> <a href="https://github.com/bwhybrow23/Simple-Email-Client"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bwhybrow23&repo=Simple-Email-Client&theme=react"></a> 
-<a href="https://github.com/bwhybrow23/SimpleChat"><img src="https://github-readme-stats.vercel.app/api/pin/?username=bwhybrow23&repo=SimpleChat&theme=react"></a>
