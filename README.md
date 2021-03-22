@@ -7,7 +7,7 @@
 - 🌱 I’m currently still learning JavaScript, but also learning [C#](https://github.com/bwhybrow23/cs-projects) in College.
 - 📫 How to reach me: [Click Here](https://benwhybrow.com/)
 - ⚡ Fun fact: I will literally listen to any genre of music, my Spotify playlists are a random mixup.
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/They
 
 ## Some Profile Information
 ![Metrics](https://metrics.lecoq.io/bwhybrow23?template=classic&languages=1&config.timezone=Europe%2FLondon)
