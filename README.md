@@ -10,5 +10,5 @@
 - 😄 Pronouns: They/Them
 
 ## Some Profile Information
-![Metrics](https://metrics.lecoq.io/bwhybrow23?template=classic&languages=1&config.timezone=Europe%2FLondon)
+![Metrics](https://github.com/bwhybrow23/bwhybrow23/blob/master/github-metrics.svg)
 
