@@ -14,3 +14,16 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
+          # Timezone
+          config_timezone: "Europe/London"
+          # Iso calendar for commits
+          plugin_isocalendar: yes
+          # Most used language
+          plugin_languages: yes
+          # Lines of code changes
+          plugin_lines: yes
+          # Achievements
+          plugin_achievements: yes
+          # Music Plug
+          plugin_music: yes
+          plugin_music_playlist: "https://open.spotify.com/embed/playlist/6CGpQyVU1JbRjSp8KammoF"
