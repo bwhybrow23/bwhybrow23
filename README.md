@@ -4,7 +4,7 @@
 
 - 📍  I’m from the good ol' UK.
 - 🔭 I’m currently working on [StenBot](https://sb.benwhybrow.com/)
-- 🌱 I’m currently still learning JavaScript, but also learning [C#](https://github.com/bwhybrow23/cs-projects) in College.
+- 🌱 I’m currently still learning JavaScript, but also learning [C# in college](https://github.com/bwhybrow23/cs-projects).
 - 📫 How to reach me: [Click Here](https://benwhybrow.com/)
 - ⚡ Fun fact: I will literally listen to any genre of music, my Spotify playlists are a random mixup.
 
