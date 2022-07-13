@@ -1,5 +1,7 @@
 ## Ben (aka. Stentorian/Sten)
 
+![](https://github.com/bwhybrow23/bwhybrow23/raw/output/github-contribution-grid-snake.svg)
+
 ##### I am a self taught JavaScript programmer (still learning) with a moderate knowledge of NodeJS & Mongo.
 
 - 📍  I’m from the good ol' UK.
