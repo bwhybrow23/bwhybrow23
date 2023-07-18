@@ -1,15 +1,20 @@
 ## Ben (aka. Stentorian/Sten)
 
-![](https://github.com/bwhybrow23/bwhybrow23/raw/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/bwhybrow23/bwhybrow23/raw/output/github-contribution-grid-snake.svg)
 
-##### I am a self taught JavaScript programmer (still learning) with a moderate knowledge of NodeJS & Mongo.
+#### Introduction
+Welcome to my GitHub profile! I am Ben, also known as Stentorian or Sten. I am a self-taught JavaScript programmer, constantly expanding my knowledge and skills. While my expertise lies in JavaScript, particularly Node.js, and MongoDB, I also have some experience with C#, which I gained during my college years. I hail from the beautiful United Kingdom.
 
-- 📍  I’m from the good ol' UK.
-- 🔭 I’m currently working on [StenBot](https://sb.benwhybrow.com/)
-- 🌱 I’m currently still learning JavaScript, but also learning [C# in college](https://github.com/bwhybrow23/cs-projects).
-- 📫 How to reach me: [Click Here](https://benwhybrow.com/)
-- ⚡ Fun fact: I will literally listen to any genre of music, my Spotify playlists are a random mixup.
+#### Main Project: StenBot
+One of my primary projects is StenBot. You can check it out at [StenBot](https://sb.benwhybrow.com/). Feel free to explore and see what it has to offer!
 
-## Some Profile Information
+#### Contact Information
+If you'd like to get in touch, feel free to reach out to me via email at [ben@benwhybrow.com](mailto:ben@benwhybrow.com). I'm always open to collaborations, discussions, and sharing ideas.
+
+#### Fun Fact
+Here's a fun fact about me: I have an eclectic taste in music and enjoy listening to various genres. My Spotify playlists are a delightful mix of diverse musical styles.
+
+## Profile Metrics
 ![Metrics](https://github.com/bwhybrow23/bwhybrow23/blob/master/github-metrics.svg)
 
+Thank you for visiting my profile! Feel free to explore my repositories and contributions. I'm continuously learning and improving my programming skills.
