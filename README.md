@@ -16,5 +16,3 @@ Here's a fun fact about me: I have an eclectic taste in music and enjoy listenin
 
 ## Profile Metrics
 ![Metrics](https://github.com/bwhybrow23/bwhybrow23/blob/master/github-metrics.svg)
-
-Thank you for visiting my profile! Feel free to explore my repositories and contributions. I'm continuously learning and improving my programming skills.
