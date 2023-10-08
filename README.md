@@ -1,6 +1,5 @@
 ## Ben (aka. Stentorian/Sten)
 
-[comment]: # ![Snake animation](https://github.com/bwhybrow23/bwhybrow23/raw/output/github-contribution-grid-snake.svg)
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bwhybrow23/bwhybrow23/raw/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/bwhybrow23/bwhybrow23/raw/output/github-contribution-grid-snake.svg" />
