@@ -1,10 +1,6 @@
 ## Ben (aka. Stentorian/Sten)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/bwhybrow23/bwhybrow23/raw/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/bwhybrow23/bwhybrow23/raw/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/bwhybrow23/bwhybrow23/raw/output/github-contribution-grid-snake.svg" />
-</picture>
+![Snake animation](https://github.com/bwhybrow23/bwhybrow23/raw/output/github-contribution-grid-snake.svg)
 
 #### Introduction
 Welcome to my GitHub profile! I am Ben, also known as Stentorian or Sten. I am a self-taught JavaScript programmer, constantly expanding my knowledge and skills. While my expertise lies in JavaScript, particularly Node.js, and MongoDB, I also have some experience with C#, which I gained during my college years. I hail from the beautiful United Kingdom.
