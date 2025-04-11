@@ -10,7 +10,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # See action.yml for all options
-      - uses: lowlighter/metrics@latest
+      - name: General
+        uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
@@ -24,3 +25,26 @@ jobs:
           plugin_lines: yes
           # Achievements
           # plugin_achievements: yes
+      - name: Detailed Achievements, Reactions & Coding Habits
+        # uses: lowlighter/metrics@latest
+        # uses the commit fork https://github.com/stalomeow/metrics/commit/edcae0f874d69e509d25ddd5e750a2f41cd54e10 
+        # until https://github.com/lowlighter/metrics/issues/1706 is fixed in lowlighter.
+        uses: stalomeow/metrics@edcae0f874d69e509d25ddd5e750a2f41cd54e10
+        with:
+          filename: metrics.plugin.achievements.compact.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          config_order: achievements, reactions, habits
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_limit: 18
+          plugin_reactions: yes
+          plugin_reactions_limit: 500
+          plugin_reactions_limit_issues: 200
+          plugin_reactions_details: count, percentage 
+          plugin_habits: yes
+          plugin_habits_facts: no
+          plugin_habits_charts: yes
+          config_timezone: Europe/London
