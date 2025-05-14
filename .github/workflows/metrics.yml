@@ -5,7 +5,7 @@ on:
   # Manual workflow run
   workflow_dispatch:
   # Run workflow when pushing to master
-  push: {branches: ["master", "main"]}
+  # push: {branches: ["master", "main"]}
   
 jobs:
   metrics:
