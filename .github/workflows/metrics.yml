@@ -13,6 +13,14 @@ jobs:
     permissions:
       contents: write
     steps:
+      - name: Debug info
+        run: |
+          echo "Actor: $GITHUB_ACTOR"
+          echo "Running on: $RUNNER_OS"
+          echo "Free disk:"
+          df -h
+          echo "Free memory:"
+          free -h
       - name: Full-year calendar
         uses: stalomeow/metrics@projects-v2
         with:
