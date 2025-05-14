@@ -15,5 +15,6 @@ If you'd like to get in touch, feel free to reach out to me via email at [ben@be
 Here's a fun fact about me: I have an eclectic taste in music and enjoy listening to various genres. My Spotify playlists are a delightful mix of diverse musical styles.
 
 ## Profile Metrics
-![Metrics](https://github.com/bwhybrow23/bwhybrow23/blob/master/metrics-general.svg)
+![Metrics General](https://github.com/bwhybrow23/bwhybrow23/blob/master/metrics-general.svg)
+![Metrics ISO Calendar](https://github.com/bwhybrow23/bwhybrow23/blob/master/metrics-isocalendar.svg)
 ![Metrics Achievements](https://github.com/bwhybrow23/bwhybrow23/blob/master/metrics-achievements.svg)
