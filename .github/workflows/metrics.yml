@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule updates (every 12 hours)
-  #schedule: [{cron: "0 */12 * * *"}]
+  schedule: [{cron: "0 */12 * * *"}]
   # Manual workflow run
   workflow_dispatch:
   # Run workflow when pushing to master
@@ -21,18 +21,24 @@ jobs:
           df -h
           echo "Free memory:"
           free -h
-      - name: Metrics
-        uses: stalomeow/metrics@projects-v2
+      - name: General
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
         with:
+          filename: general.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          user: bwhybrow23
-          filename: metrics.svg
           base: header
           base_indepth: yes
-          config_timezone: Europe/London
+          config_order: base.header, isocalendar, languages, discussions
+          plugin_isocalendar: yes
           plugin_languages: yes
-          plugin_lines: yes
+          plugin_discussions: yes
+      - name: Achievements
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: achievements.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
           plugin_achievements: yes
           plugin_achievements_display: compact
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
